@@ -1,16 +1,11 @@
 
 
-# RabbitMQ-BackEndServer
-
+# LinkedIn Backend Server
+A LinkedIn Backend Server using Node and RabbutMQ messaging system
 
 
 ## Usage
-
-
-
-## Developing
-
-
+Clone or Fork and start using in Eclipse
 
 ### Tools
 
