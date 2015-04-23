@@ -1,7 +1,7 @@
 
 
 # LinkedIn Backend Server
-A LinkedIn Backend Server using Node and RabbutMQ messaging system
+A LinkedIn Backend Server using Node and RabbitMQ messaging system
 
 
 ## Usage
